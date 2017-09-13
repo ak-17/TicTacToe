@@ -2,6 +2,8 @@
 #include<graphics.h>
 #include<dos.h>
 
+//ak_17
+
 int tic[10];
 char c;
 int turn=0;
